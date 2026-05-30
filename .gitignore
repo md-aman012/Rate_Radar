@@ -1,0 +1,4 @@
+client/Rate Radar/node_modules/
+Server/node_modules
+client/Rate Radar/.env
+Server/.env
